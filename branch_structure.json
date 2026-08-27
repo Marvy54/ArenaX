@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-873-contract-input-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-873-contract-input-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-873-contract-input-validation",
+    "origin"
+  ]
+}
